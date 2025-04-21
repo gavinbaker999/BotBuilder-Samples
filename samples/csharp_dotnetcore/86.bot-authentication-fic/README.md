@@ -61,7 +61,7 @@ This bot uses `FederatedServiceClientCredentialsFactory` which is registered in 
    
 - Set appsettings.json variables
 
-  - MicrosoftAppType: SingTenant
+  - MicrosoftAppType: SingleTenant
 
   - MicrosoftAppId: {bot-appId}
 
